@@ -110,6 +110,7 @@ h6,
     font-weight: 900;
     vertical-align: middle;
     margin-left: 8px;
+
 }
 
 .navbar .navbar-nav .nav-link {
@@ -211,45 +212,74 @@ h6,
     background-size: cover;
 }
 
-.page-header {
-    padding-top: 12rem;
-    padding-bottom: 6rem;
-    background: url(../img/header.jpg) top left no-repeat;
-    background-size: cover;
-}
-
-.page-header0 {
-    padding-top: 12rem;
-    padding-bottom: 6rem;
-    background: url(../img/header_any.jpg) top left no-repeat;
-    background-size: cover;
-}
-
 .page-header1 {
     padding-top: 12rem;
     padding-bottom: 6rem;
-    background: url(../img/header_any1.jpg) top left no-repeat;
+    background: url(../img/header_01.jpg) top left no-repeat;
     background-size: cover;
 }
 
 .page-header2 {
     padding-top: 12rem;
     padding-bottom: 6rem;
-    background: url(../img/header_any2.jpg) top left no-repeat;
+    background: url(../img/header_02.jpg) top left no-repeat;
     background-size: cover;
 }
 
 .page-header3 {
     padding-top: 12rem;
     padding-bottom: 6rem;
-    background: url(../img/header_any3.jpg) top left no-repeat;
+    background: url(../img/header_03.jpg) top left no-repeat;
     background-size: cover;
 }
 
 .page-header4 {
     padding-top: 12rem;
     padding-bottom: 6rem;
-    background: url(../img/header_any4.jpg) top left no-repeat;
+    background: url(../img/header_04.jpg) top left no-repeat;
+    background-size: cover;
+}
+
+.page-header5 {
+    padding-top: 12rem;
+    padding-bottom: 6rem;
+    background: url(../img/header_05.jpg) top left no-repeat;
+    background-size: cover;
+}
+
+.page-header6 {
+    padding-top: 12rem;
+    padding-bottom: 6rem;
+    background: url(../img/header_06.jpg) top left no-repeat;
+    background-size: cover;
+}
+
+
+.page-header7 {
+    padding-top: 12rem;
+    padding-bottom: 6rem;
+    background: url(../img/header_07.jpg) top left no-repeat;
+    background-size: cover;
+}
+
+.page-header8 {
+    padding-top: 12rem;
+    padding-bottom: 6rem;
+    background: url(../img/header_08.jpg) top left no-repeat;
+    background-size: cover;
+}
+
+.page-header9 {
+    padding-top: 12rem;
+    padding-bottom: 6rem;
+    background: url(../img/header_09.jpg) top left no-repeat;
+    background-size: cover;
+}
+
+.page-header10 {
+    padding-top: 12rem;
+    padding-bottom: 6rem;
+    background: url(../img/header_10.jpg) top left no-repeat;
     background-size: cover;
 }
 
