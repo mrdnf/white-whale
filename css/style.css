@@ -290,13 +290,20 @@ h6,
     background-size: cover;
 }
 
+.page-header-layla {
+    padding-top: 12rem;
+    padding-bottom: 6rem;
+    background: url(../img/header_layla.jpg) top left no-repeat;
+    background-size: cover;
+}
+
 .page-header .breadcrumb-item,
 .page-header .breadcrumb-item a {
     font-weight: 500;
 }
 
 .page-header .breadcrumb-item+.breadcrumb-item::before {
-    color: var(--tertiary);
+    color: #011A41;
 }
 
 
@@ -553,10 +560,10 @@ h6,
     position: relative;
     display: inline-block;
     margin: 0 5px;
-    width: 300px;
-    height: 300px;
-    border: 1px solid var(--light);
-    border-radius: 30px;
+    width: 18px;
+    height: 18px;
+    border: 0px solid var(--light);
+    border-radius: 20px;
     transition: .3s;
 }
 
@@ -565,8 +572,8 @@ h6,
     content: "";
     width: 16px;
     height: 16px;
-    top: 6px;
-    left: 6px;
+    top: 1px;
+    left: 1px;
     border-radius: 16px;
     background: var(--light);
     transition: .3s;
