@@ -297,6 +297,23 @@ h6,
     background-size: cover;
 }
 
+.page-header-farida {
+    padding-top: 12rem;
+    padding-bottom: 6rem;
+    background: url(../img/header_farida.jpg) top left no-repeat;
+    background-size: cover;
+}
+
+
+.page-header-eladham {
+    padding-top: 12rem;
+    padding-bottom: 6rem;
+    background: url(../img/header_eladham.jpg) top left no-repeat;
+    background-size: cover;
+}
+
+
+
 .page-header .breadcrumb-item,
 .page-header .breadcrumb-item a {
     font-weight: 500;
