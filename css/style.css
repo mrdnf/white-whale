@@ -312,6 +312,20 @@ h6,
     background-size: cover;
 }
 
+.page-header-younis {
+    padding-top: 12rem;
+    padding-bottom: 6rem;
+    background: url(../img/header_younis.jpg) top left no-repeat;
+    background-size: cover;
+}
+
+.page-header-elamana {
+    padding-top: 12rem;
+    padding-bottom: 6rem;
+    background: url(../img/header_elamana.jpg) top left no-repeat;
+    background-size: cover;
+}
+
 
 
 .page-header .breadcrumb-item,
